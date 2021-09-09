@@ -9,7 +9,7 @@ The easiest way to deploy this Bot
 
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/raja497/vcbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-redblack?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Khushity/vcbot.git> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-redblack?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 Get STRING_NAME from here:
 
@@ -41,15 +41,13 @@ Get STRING_NAME from here:
 - `/end` - stop music play
 ## Our Telegram Channel and Group
 
-* [GROUP](https://telegram.dog/DOSTI_GROUP_1234)
+* [GROUP](https://telegram.dog/https://t.me/botuserschat
 
-* [CHANNEL](https://telegram.dog/ABOUT_ABHINAS)
+* [CHANNEL](https://telegram.dog/https://t.me/joinchat/iO08_C-qTrtiNDg9
 
 ## Credits, and Thanks to 
 
-*   [Abhinas](https://telegram.dog/abhinasroy)
-
-*. [Lucifer](https://t.me/lmlucifer)
+*   [Candy](https://telegram.dog/AFK_CANDY_OP)
 
 
 
